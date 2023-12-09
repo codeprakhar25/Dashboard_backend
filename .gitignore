@@ -1,0 +1,5 @@
+.history
+db*
+migrations
+__py*
+/client_secret*
